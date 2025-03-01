@@ -88,10 +88,19 @@ This setup automates the deployment process, ensuring seamless code integration,
 
 ✅ **Fully automated deployment using AWS CodePipeline! 🚀**
 
+| Image 1                | Image 2 | Image 3 | Image 4 |
+|------------------------|---------|---------|---------|
+| ![Image 1](docs/1.png) | ![Image 2](docs/2.png) | ![Image 3](docs/3.png) | ![Image 4](docs/4.png) |
 
+| Image 5 | Image 6 | Image 7 | Image 8 |
+|---------|---------|---------|---------|
+| ![Image 5](docs/5.png) | ![Image 6](docs/6.png) | ![Image 7](docs/7.png) | ![Image 8](docs/8.png) |
 
 Prerequisite :
 1. AWS acconunt.
 2. Git and docker installed on the machine.
 3. Docker should be started before building docker image.
 4. And your favourite code editor 
+
+
+#
